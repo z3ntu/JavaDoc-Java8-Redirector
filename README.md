@@ -1,4 +1,4 @@
-# JavaDoc-Java8-Redirector
+# Javadoc Redirector
 
 ## How to install
 1. Download the [latest version](https://github.com/z3ntu/JavaDoc-Java8-Redirector/releases/latest)!
