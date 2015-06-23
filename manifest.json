@@ -1,10 +1,10 @@
 {
 	"manifest_version": 2,
-	"name": "JavaDoc Java 8 Redirector",
-	"description": "Changes the URL automatically to the Java 8 JavaDoc",
-	"version": "1.0",
+	"name": "Javadoc Redirector",
+	"description": "Redirects you automatically to the Java 8 Javadoc.",
+	"version": "1.1",
 	"author": "z3ntu",
-	"homepage_url": "http://z3ntu.github.io",
+	"homepage_url": "https://z3ntu.github.io",
 	"content_scripts": [ {
 		"js": [ "js/replace.js" ],
 		"matches": ["*://docs.oracle.com/javase/*/docs/api/*"],

@@ -6,5 +6,3 @@
 3. Enable developer mode.
 4. Drag & drop the .crx file into the window.
 5. Confirm the dialog.
-6. ???
-7. Profit!
