@@ -6,3 +6,5 @@
 3. Enable developer mode.
 4. Drag & drop the .crx file into the window.
 5. Confirm the dialog.
+
+### Or you use the [Chrome Webstore](https://chrome.google.com/webstore/detail/javadoc-redirector/pkpckmephcfffdfjemgnekclglhpkcom)!
